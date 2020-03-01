@@ -1,5 +1,7 @@
 public class helloJava{
   public static void main(String args[]){
-    System.out.println("Hello, it works!");
+    while (true){
+      System.out.println("Hello, it works!");
+    } 
   }
 }
